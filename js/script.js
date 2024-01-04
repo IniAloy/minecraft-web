@@ -7,8 +7,8 @@ If something doesn't work please contact me on discord (Astronawta#0012).
 const config = {
     serverInfo: {
         serverLogoImageFileName: "logo.png", /*This is a file name for logo in /images/ (If you upload new logo with other name, you must change this value)*/
-        serverName: "AloyServer", /*Server name*/
-        serverIp: "AloyServer.elixir.host", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
+        serverName: "ItzTeam-Server", /*Server name*/
+        serverIp: "localhost:25565", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
         discordServerID: "1157145902448902154" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
     },
 
